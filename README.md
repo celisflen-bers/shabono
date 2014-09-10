@@ -7,3 +7,5 @@ Según Wikipedia:
 Este proyecto se trata de un sistema de manejo de datos demograficos en los Consejos Comunales de Venezuela
 
 Carlos Celis Flen-Bers (celisflenbers at gmail dot com)
+
+<a href="https://plus.google.com/116365630690132795573" rel="publisher">Google+</a>
